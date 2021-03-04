@@ -118,7 +118,8 @@ body{
     display: inline-flex;
     margin-left: 10px;
 }
-.form-control textarea{
+.formctrl textarea{
+    margin-top: 10px;
     width: 100%;
     border: 1px solid black;
     font-family: var(--font);
